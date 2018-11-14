@@ -1,0 +1,6 @@
+[general]
+bar_width = 1 
+bar_spacing = 5 
+
+[smoothing]
+gravity = 300

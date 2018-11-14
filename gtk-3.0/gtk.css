@@ -1,0 +1,8 @@
+@import url('/usr/share/gnome-shell/extensions/unite@hardpixel.eu/styles/buttons-right.css');
+
+VteTerminal,
+TerminalScreen,
+vte-terminal {
+    padding: 10px 10px 10px 10px;
+    -VteTerminal-inner-border: 10px 10px 10px 10px;
+}
