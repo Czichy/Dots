@@ -69,7 +69,7 @@ label-focused-padding = 2
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
 label-unfocused-padding = 2
-label-unfocused-font = 5
+label-unfocused-font = 4
 label-occupied-padding = 2
 
 ; visible = Active workspace on unfocused monitor
