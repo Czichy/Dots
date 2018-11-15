@@ -3,7 +3,7 @@
 | **Info** | **Name** |
 | --------- | --------- |
 | OS 				| `Arch Linux` |
-| LightDM theme | `equilux` |
+| LightDM theme | `lightdm-webkit2-equilux` |
 | WM 				| `i3-gaps` 		 |
 | Shell 		| `zsh` 			 |
 | Launcher  | `rofi` 			 |
