@@ -16,7 +16,7 @@ exec --no-startup-id feh --bg-fill ~/Pictures/bg.jpg
 exec --no-startup-id compton -b --respect-prop-shadow
 exec --no-startup-id nm-applet
 exec --no-startup-id pamac-system-daemon
-exec --no-startup-id redshift-gtk -l 36.1735096:-85.5133256
+exec --no-startup-id redshift-gtk
 
 
 bindsym $mod+m exec --no-startup-id rofi -show drun
