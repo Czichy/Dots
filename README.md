@@ -15,6 +15,10 @@
 
 ----
 
+This setup is the result of several years of wrangling with a HiDPI screen so if you're in the same boat its a great place to start. 
+
+----
+
 **Screenshot**
 ![rofi + polybar](https://i.imgur.com/xa25Q6l.jpg)
 
